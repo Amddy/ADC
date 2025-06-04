@@ -1,0 +1,10 @@
+// Lee el valor del ADC mediante un callback ejectuado por interrupciones. Cuando lee 100 muestras,
+// se detiene y las imprime en la consola.
+// Si bien en este caso no se observa una diferencia apreciable en el resultado, este método
+// es más rápido que el del test 1, porque solamente ejecuta código cuando una muestra está
+// lista.
+//
+// Valores y tiempos registrados en la ejecución:
+// std = 2.49437
+// mean = 2038.41
+// Ticks = 31

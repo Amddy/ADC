@@ -1,0 +1,6 @@
+// Este test lee 100 muestras del ADC por polling y las imprime en la consola.
+//
+// Valores y tiempos registrados en la ejecución:
+// std = 2.4132
+// mean = 2040.58
+// Ticks: 31

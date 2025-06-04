@@ -1,0 +1,7 @@
+// Este test lee 16 muestras del ADC por polling, las promedia, y guarda el promedio como una
+// muestra. Finalmente, imprime las muestras en la consola.
+//
+// Valores y tiempos registrados en la ejecución:
+// std = 0.54872
+// mean = 2039.17
+// Ticks: 118
